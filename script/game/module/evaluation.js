@@ -318,10 +318,6 @@ SW.define('game/module/evaluation', function(require, exports, module){
 			}
 		}
 
-
-
-		console.log(result);
-
 		return result == a;
 	};
 

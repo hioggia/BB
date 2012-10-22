@@ -8,7 +8,7 @@
 		version: '0.1',
 		global: global,
 		path: 'script/',
-		debug: true,
+		debug: false,
 		compiled: false
 	};
 
